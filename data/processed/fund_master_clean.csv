@@ -1,0 +1,51 @@
+amfi_code,scheme_name,fund_house,category,sub_category,risk_grade,launch_date,benchmark,exit_load_pct,min_sip_amount,min_lumpsum
+119551,HDFC Sectoral Fund - Direct Plan,HDFC,Equity,Sectoral,Low,2010-01-01,Nifty 50,0.11,500,5000
+120503,SBI Corporate Bond Fund - Direct Plan,SBI,Debt,Corporate Bond,Moderately Low,2010-05-01,Nifty 60,0.24,500,5000
+118632,ICICI Prudential Aggressive Hybrid Fund - Direct Plan,ICICI Prudential,Hybrid,Aggressive Hybrid,Moderate,2010-08-29,Nifty 70,0.74,500,5000
+119092,Nippon India Retirement Fund - Direct Plan,Nippon India,Solution Oriented,Retirement,Moderately High,2010-12-27,Nifty 80,0.59,500,5000
+120841,Axis Index Fund Fund - Direct Plan,Axis,Other,Index Fund,High,2011-04-26,Nifty 90,0.03,500,5000
+125497,Kotak Mid Cap Fund - Direct Plan,Kotak,Equity,Mid Cap,Very High,2011-08-24,Nifty 100,0.23,500,5000
+118825,Mirae Asset Credit Risk Fund - Direct Plan,Mirae Asset,Debt,Credit Risk,Low,2011-12-22,Nifty 110,0.03,500,5000
+118834,DSP Aggressive Hybrid Fund - Direct Plan,DSP,Hybrid,Aggressive Hybrid,Moderately Low,2012-04-20,Nifty 120,0.72,500,5000
+118835,Franklin Templeton Children Fund - Direct Plan,Franklin Templeton,Solution Oriented,Children,Moderate,2012-08-18,Nifty 130,0.22,500,5000
+118836,Aditya Birla Sun Life FoF Fund - Direct Plan,Aditya Birla Sun Life,Other,FoF,Moderately High,2012-12-16,Nifty 140,0.28,500,5000
+118837,HDFC Large Cap Fund - Direct Plan,HDFC,Equity,Large Cap,High,2013-04-15,Nifty 150,0.76,500,5000
+118838,SBI Short Duration Fund - Direct Plan,SBI,Debt,Short Duration,Very High,2013-08-13,Nifty 160,0.7,500,5000
+118839,ICICI Prudential Conservative Hybrid Fund - Direct Plan,ICICI Prudential,Hybrid,Conservative Hybrid,Low,2013-12-11,Nifty 170,0.28,500,5000
+118840,Nippon India Retirement Fund - Direct Plan,Nippon India,Solution Oriented,Retirement,Moderately Low,2014-04-10,Nifty 180,0.96,500,5000
+118841,Axis ETF Fund - Direct Plan,Axis,Other,ETF,Moderate,2014-08-08,Nifty 190,0.1,500,5000
+118842,Kotak Flexi Cap Fund - Direct Plan,Kotak,Equity,Flexi Cap,Moderately High,2014-12-06,Nifty 200,0.1,500,5000
+118843,Mirae Asset Corporate Bond Fund - Direct Plan,Mirae Asset,Debt,Corporate Bond,High,2015-04-05,Nifty 210,0.6,500,5000
+118844,DSP Aggressive Hybrid Fund - Direct Plan,DSP,Hybrid,Aggressive Hybrid,Very High,2015-08-03,Nifty 220,0.73,500,5000
+118845,Franklin Templeton Retirement Fund - Direct Plan,Franklin Templeton,Solution Oriented,Retirement,Low,2015-12-01,Nifty 230,0.97,500,5000
+118846,Aditya Birla Sun Life ETF Fund - Direct Plan,Aditya Birla Sun Life,Other,ETF,Moderately Low,2016-03-30,Nifty 240,0.08,500,5000
+118847,HDFC Small Cap Fund - Direct Plan,HDFC,Equity,Small Cap,Moderate,2016-07-28,Nifty 250,0.83,500,5000
+118848,SBI Credit Risk Fund - Direct Plan,SBI,Debt,Credit Risk,Moderately High,2016-11-25,Nifty 260,0.89,500,5000
+118849,ICICI Prudential Conservative Hybrid Fund - Direct Plan,ICICI Prudential,Hybrid,Conservative Hybrid,High,2017-03-25,Nifty 270,0.58,500,5000
+118850,Nippon India Retirement Fund - Direct Plan,Nippon India,Solution Oriented,Retirement,Very High,2017-07-23,Nifty 280,0.05,500,5000
+118851,Axis Index Fund Fund - Direct Plan,Axis,Other,Index Fund,Low,2017-11-20,Nifty 290,0.77,500,5000
+118852,Kotak Large Cap Fund - Direct Plan,Kotak,Equity,Large Cap,Moderately Low,2018-03-20,Nifty 300,0.86,500,5000
+118853,Mirae Asset Liquid Fund - Direct Plan,Mirae Asset,Debt,Liquid,Moderate,2018-07-18,Nifty 310,0.38,500,5000
+118854,DSP Conservative Hybrid Fund - Direct Plan,DSP,Hybrid,Conservative Hybrid,Moderately High,2018-11-15,Nifty 320,0.64,500,5000
+118855,Franklin Templeton Children Fund - Direct Plan,Franklin Templeton,Solution Oriented,Children,High,2019-03-15,Nifty 330,0.16,500,5000
+118856,Aditya Birla Sun Life ETF Fund - Direct Plan,Aditya Birla Sun Life,Other,ETF,Very High,2019-07-13,Nifty 340,0.21,500,5000
+118857,HDFC Small Cap Fund - Direct Plan,HDFC,Equity,Small Cap,Low,2019-11-10,Nifty 350,0.7,500,5000
+118858,SBI Liquid Fund - Direct Plan,SBI,Debt,Liquid,Moderately Low,2020-03-09,Nifty 360,0.61,500,5000
+118859,ICICI Prudential Aggressive Hybrid Fund - Direct Plan,ICICI Prudential,Hybrid,Aggressive Hybrid,Moderate,2020-07-07,Nifty 370,0.53,500,5000
+118860,Nippon India Retirement Fund - Direct Plan,Nippon India,Solution Oriented,Retirement,Moderately High,2020-11-04,Nifty 380,0.16,500,5000
+118861,Axis ETF Fund - Direct Plan,Axis,Other,ETF,High,2021-03-04,Nifty 390,0.27,500,5000
+118862,Kotak Sectoral Fund - Direct Plan,Kotak,Equity,Sectoral,Very High,2021-07-02,Nifty 400,0.69,500,5000
+118863,Mirae Asset Short Duration Fund - Direct Plan,Mirae Asset,Debt,Short Duration,Low,2021-10-30,Nifty 410,0.68,500,5000
+118864,DSP Aggressive Hybrid Fund - Direct Plan,DSP,Hybrid,Aggressive Hybrid,Moderately Low,2022-02-27,Nifty 420,0.23,500,5000
+118865,Franklin Templeton Retirement Fund - Direct Plan,Franklin Templeton,Solution Oriented,Retirement,Moderate,2022-06-27,Nifty 430,0.81,500,5000
+118866,Aditya Birla Sun Life ETF Fund - Direct Plan,Aditya Birla Sun Life,Other,ETF,Moderately High,2022-10-25,Nifty 440,0.27,500,5000
+118867,HDFC Mid Cap Fund - Direct Plan,HDFC,Equity,Mid Cap,High,2023-02-22,Nifty 450,0.91,500,5000
+118868,SBI Credit Risk Fund - Direct Plan,SBI,Debt,Credit Risk,Very High,2023-06-22,Nifty 460,0.88,500,5000
+118869,ICICI Prudential Conservative Hybrid Fund - Direct Plan,ICICI Prudential,Hybrid,Conservative Hybrid,Low,2023-10-20,Nifty 470,0.21,500,5000
+118870,Nippon India Children Fund - Direct Plan,Nippon India,Solution Oriented,Children,Moderately Low,2024-02-17,Nifty 480,0.4,500,5000
+118871,Axis FoF Fund - Direct Plan,Axis,Other,FoF,Moderate,2024-06-16,Nifty 490,0.46,500,5000
+118872,Kotak Small Cap Fund - Direct Plan,Kotak,Equity,Small Cap,Moderately High,2024-10-14,Nifty 500,0.14,500,5000
+118873,Mirae Asset Credit Risk Fund - Direct Plan,Mirae Asset,Debt,Credit Risk,High,2025-02-11,Nifty 510,0.54,500,5000
+118874,DSP Balanced Advantage Fund - Direct Plan,DSP,Hybrid,Balanced Advantage,Very High,2025-06-11,Nifty 520,0.58,500,5000
+118875,Franklin Templeton Children Fund - Direct Plan,Franklin Templeton,Solution Oriented,Children,Low,2025-10-09,Nifty 530,0.36,500,5000
+118876,Aditya Birla Sun Life Index Fund Fund - Direct Plan,Aditya Birla Sun Life,Other,Index Fund,Moderately Low,2026-02-06,Nifty 540,0.51,500,5000
