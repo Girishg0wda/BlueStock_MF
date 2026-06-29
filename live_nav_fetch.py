@@ -34,7 +34,7 @@ def fetch_nav(amfi_code: int, scheme_name: str) -> pd.DataFrame | None:
         meta = data.get("meta", {})
         nav_data = data.get("data", [])
 
-        print(f"\n  ✅ {scheme_name} (AMFI: {amfi_code})")
+        print(f"\n   {scheme_name} (AMFI: {amfi_code})")
         print(f"     Fund House : {meta.get('fund_house', 'N/A')}")
         print(f"     Scheme     : {meta.get('scheme_name', 'N/A')}")
         print(f"     Category   : {meta.get('scheme_category', 'N/A')}")
@@ -51,7 +51,7 @@ def fetch_nav(amfi_code: int, scheme_name: str) -> pd.DataFrame | None:
             return df
 
     except requests.exceptions.ConnectionError:
-        print(f"\n  ⚠  {scheme_name} (AMFI: {amfi_code}) — Network unavailable; using cached stub.")
+        print(f"\n    {scheme_name} (AMFI: {amfi_code}) — Network unavailable; using cached stub.")
         # Return a minimal stub so the pipeline continues offline
         stub = pd.DataFrame([{
             "date": datetime.now().strftime("%d-%m-%Y"),
@@ -62,7 +62,7 @@ def fetch_nav(amfi_code: int, scheme_name: str) -> pd.DataFrame | None:
         }])
         return stub
     except Exception as e:
-        print(f"\n  ❌ Failed to fetch {scheme_name}: {e}")
+        print(f"\n   Failed to fetch {scheme_name}: {e}")
         return None
 
 
@@ -82,9 +82,9 @@ def main():
         combined = pd.concat(all_dfs, ignore_index=True)
         out_path = os.path.join(RAW_DIR, "live_nav_data.csv")
         combined.to_csv(out_path, index=False)
-        print(f"\n  💾 Saved {len(combined):,} records → {out_path}")
+        print(f"\n   Saved {len(combined):,} records → {out_path}")
     else:
-        print("\n  ❌ No data fetched.")
+        print("\n   No data fetched.")
 
     print("=" * 60)
 

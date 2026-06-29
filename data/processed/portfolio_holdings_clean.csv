@@ -1,0 +1,57 @@
+amfi_code,sector,weight
+100,Healthcare,0.3489
+100,Energy,0.0452
+100,Consumer Goods,0.004
+100,Infrastructure,0.3628
+100,IT,0.189
+100,Automobiles,0.0211
+100,Banking & Financial Services,0.029
+105,Banking & Financial Services,0.3135
+105,Consumer Goods,0.1667
+105,IT,0.3333
+105,Healthcare,0.1474
+105,Infrastructure,0.0151
+105,Energy,0.0074
+105,Automobiles,0.0166
+110,Healthcare,0.7688
+110,Energy,0.1706
+110,Infrastructure,0.0173
+110,IT,0.0273
+110,Banking & Financial Services,0.0088
+110,Consumer Goods,0.0026
+110,Automobiles,0.0047
+115,Infrastructure,0.0204
+115,Banking & Financial Services,0.5669
+115,Energy,0.2047
+115,Consumer Goods,0.1044
+115,Healthcare,0.0078
+115,IT,0.0606
+115,Automobiles,0.0352
+120,Healthcare,0.342
+120,Energy,0.3542
+120,Consumer Goods,0.0389
+120,Automobiles,0.065
+120,IT,0.0438
+120,Infrastructure,0.0672
+120,Banking & Financial Services,0.0888
+125,Healthcare,0.4509
+125,Energy,0.0473
+125,IT,0.2121
+125,Infrastructure,0.0731
+125,Banking & Financial Services,0.0991
+125,Automobiles,0.079
+125,Consumer Goods,0.0386
+130,Healthcare,0.4651
+130,Energy,0.3297
+130,Infrastructure,0.1632
+130,Banking & Financial Services,0.0047
+130,IT,0.0098
+130,Consumer Goods,0.02
+130,Automobiles,0.0076
+135,Healthcare,0.4714
+135,Banking & Financial Services,0.2999
+135,Infrastructure,0.157
+135,Automobiles,0.0526
+135,IT,0.0105
+135,Consumer Goods,0.0029
+135,Energy,0.0057
